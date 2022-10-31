@@ -10,7 +10,7 @@ document.body.appendChild(script);
 
 let header = $(`
 <nav class="navbar navbar-expand-lg fixed-top dark-theme" id="navbar">
-<a class="navbar-brand" href="index.html">John Doe </a>
+<a class="navbar-brand" href="index.html">Kieran Klukas </a>
 <div class="hamburger_wrapper navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 
   <div id="js-hamburger" class="hamburger">
@@ -76,7 +76,7 @@ let header = $(`
          <path id="Vector_38" opacity="0.1" d="M289.682 123.341L289.096 130.792C280.459 133.288 274.295 125.338 274.295 125.338C273.394 125.581 272.508 125.88 271.644 126.232C272.016 121.863 272.309 118.846 272.309 118.846L289.682 123.341Z" fill="black" />
          <path id="Vector_39" opacity="0.1" d="M242.527 87.8851L249.477 115.351C249.477 115.351 228.133 118.846 223.666 115.351C219.199 111.855 210.76 110.856 210.76 110.856C210.76 110.856 219.695 84.8889 224.659 81.8926C229.622 78.8964 242.527 87.8851 242.527 87.8851Z" fill="black" />
          <path id="Vector_40" opacity="0.1" d="M227.637 298.122L214.731 305.114L210.76 302.117V300.12C215.22 299.801 219.552 298.486 223.442 296.27C224.634 295.59 225.755 294.921 226.654 294.332C227.175 296.644 227.637 298.122 227.637 298.122Z" fill="black" />
-         <path id="Vector_41" opacity="0.05" d="M200.089 117.099C200.089 117.099 212.994 120.594 216.965 129.583C220.936 138.572 231.677 140.215 231.677 140.215" fill="black" />
+         <path iJohn Doed="Vector_41" opacity="0.05" d="M200.089 117.099C200.089 117.099 212.994 120.594 216.965 129.583C220.936 138.572 231.677 140.215 231.677 140.215" fill="black" />
          <path id="Vector_42" d="M221.184 108.859L232.104 135.326C232.104 135.326 233.097 143.316 238.06 147.81C238.06 147.81 245.506 155.8 246.498 160.295C247.491 164.789 261.389 176.774 261.389 176.774C261.389 176.774 274.295 188.759 275.287 193.253C275.287 193.253 287.2 196.749 285.711 203.74C285.711 203.74 294.645 194.752 285.711 186.262C276.776 177.773 264.864 160.295 264.864 160.295C264.864 160.295 257.915 141.818 251.462 136.325L249.477 130.831C249.477 130.831 252.455 114.851 242.527 107.361C232.6 99.8702 221.184 108.859 221.184 108.859Z" fill="#DB8B8B" />
          <path id="Vector_43" d="M248.732 314.851H218.95V324.34H248.732V314.851Z" fill="#1E1F21" />
          <path id="Vector_44" d="M242.527 86.8864L249.477 114.352C249.477 114.352 228.133 117.848 223.666 114.352C219.199 110.856 210.76 109.858 210.76 109.858C210.76 109.858 219.695 83.8901 224.659 80.8939C229.622 77.8976 242.527 86.8864 242.527 86.8864Z" fill="black" />
@@ -138,7 +138,7 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Get in Touch</h6>
               </div>
-                <form name="form1" action="https://formcarry.com/s/BywEPAJNb" method="POST" accept-charset="UTF-8" >
+                <form name="form1" accept-charset="UTF-8" netlify >
                   <input id="name" type="text" name="name" placeholder="Your Name" required/>
                   <input id="email" type="email" name="email" placeholder="Email Address" required/>                  
                   <textarea id="textArea" name="message" placeholder="Type your Message" required></textarea>
